@@ -1,0 +1,25 @@
+article{
+    background-image: url(Images/background.jpg);
+    background-repeat: repeat;
+}
+header{
+    background-image: url(Images/milky-way-starry-sky-night-sky-star-956981.jpeg);
+    color: rgb(255, 255, 255);
+    background-position: top;
+    background-size: cover;
+}
+h1>a{
+    display:inline-block;
+    color: rgb(255, 255, 255);
+    margin: 1rem;
+    Vertical-align: 1rem;
+}
+header>nav>a{
+    color: rgb(255, 255, 255);
+    text-decoration: None;
+    padding: 2rem;
+    border: 1px solid transparent;
+}
+header>nav>a:hover{
+    color: rgb(94, 113, 221);
+}
