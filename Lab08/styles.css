@@ -9,6 +9,10 @@ header{
     display: flex;
     flex-direction: column-reverse;
     align-items: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: ;
 }
 nav>a{
     color: #e2512d;
@@ -20,4 +24,30 @@ nav>a{
 nav>a:hover{
     color: #a33b20;
     text-decoration: underline;
+}
+.animal-background{
+    position: fixed;
+    top: -12rem;
+    width: 200%;
+    left:-51%;
+    height: 50rem;
+    z-index: -1;
+    background-image: url(animal.jpg);
+    background-size: cover;
+}
+section>h2{
+    text-align: center;
+    padding: 13rem 0;
+    text-shadow: 2px 2px 2px #27213C;
+    background-size: cover;
+    margin: 0;
+}
+section{
+    background-color: #a33b20;
+}
+.animals{
+    background-color: transparent;
+}
+.sloth>h2{
+    background-image: url(sloth.jpg);
 }
