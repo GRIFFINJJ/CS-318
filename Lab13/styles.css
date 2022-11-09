@@ -72,7 +72,58 @@ section:before{
     background-color: #2e0105;
 }
 #odin:before{
-    content: url(images/odin.jpg);
+    content: url(images/odin.svg);
+}
+#thor:before{
+    content: url(images/thor.svg);
+}
+#loki:before{
+    content: url(images/loki.svg);
+}
+#frigg:before{
+    content: url(images/frigg.svg);
+}
+#baldr:before{
+    content: url(images/baldr.svg);
+}
+#freyja:before{
+    content: url(images/freyja.svg);
+}
+#freyr:before{
+    content: url(images/freyr.svg);
+}
+#heimdallr:before{
+    content: url(images/heimdallr.svg);
+}
+#yggdrasil:before{
+    content: url(images/yggdrasil.svg);
+}
+#asgard:before{
+    content: url(images/asgard.svg);
+}
+#vanaheimr:before{
+    content: url(images/vanaheimr.svg);
+}
+#alfheim:before{
+    content: url(images/alfheim.svg);
+}
+#midgard:before{
+    content: url(images/midgard.svg);
+}
+#jotunheimr:before{
+    content: url(images/jotunheimr.svg);
+}
+#muspelheim:before{
+    content: url(images/muspelheim.svg);
+}
+#svartalfar:before{
+    content: url(images/svartalfar.svg);
+}
+#niflheim:before{
+    content: url(images/niflheim.svg);
+}
+#nidavellir:before{
+    content: url(images/nidavellir.svg);
 }
 @media (min-width:1100px){
     body{
