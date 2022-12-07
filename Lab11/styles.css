@@ -23,7 +23,7 @@ form>label{
 fieldset{
     font-size: 1.5rem;
     margin: 1rem 0 .25rem;
-    border: 3px solid yellowgreen;
+    border: 3px solid rgb(23, 23, 21);
     border-radius: .25rem;
 }
 form{
